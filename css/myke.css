@@ -1,0 +1,35 @@
+.main-color{
+background-color:#F9FFFF;
+}
+
+.text{
+font-family: Georgia, serif;
+}
+
+.about-div{
+width:510px;
+right: 0px;
+display: inline-block;
+float:right;
+font-family: Georgia, serif;
+}
+
+.photo-div{
+width:450px;
+height:700px;
+display: inline-block;
+float:left;
+}
+
+.jdiv{
+height:800px;
+}
+
+h3{
+font-family: Georgia, serif;
+}
+
+ul{
+font-family: "Georgia", serif;
+font-size: 140%
+}
