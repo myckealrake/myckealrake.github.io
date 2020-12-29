@@ -1,9 +1,9 @@
 .main-color{
-background-color:#F9FFFF;
+background-color:#F5F5F5;
 }
 
 .text{
-font-family: Georgia, serif;
+font-family: Raleway, sans-serif;
 }
 
 .about-div{
@@ -11,7 +11,7 @@ width:510px;
 right: 0px;
 display: inline-block;
 float:right;
-font-family: Georgia, serif;
+font-family: Raleway, sans-serif;
 }
 
 .photo-div{
@@ -26,10 +26,11 @@ height:800px;
 }
 
 h3{
-font-family: Georgia, serif;
+font-family: Raleway, sans-serif;
 }
 
 ul{
-font-family: "Georgia", serif;
-font-size: 140%
+font-family: "Raleway", sans-serif;
+font-size: 130%
+color: Black;
 }
